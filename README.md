@@ -1,5 +1,3 @@
-# Building_AI_Coding_Model
-
 # Building an AI Coding Model from Scratch: A Beginner's Guide
 
 ## Table of Contents
